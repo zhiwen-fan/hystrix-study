@@ -1,0 +1,5 @@
+https://www.cnblogs.com/gaoyanqing/p/7470085.html
+
+https://blog.csdn.net/ruihin/article/details/77579794
+
+https://github.com/Netflix/Hystrix/wiki/How-To-Use#ErrorPropagation
